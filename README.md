@@ -61,4 +61,3 @@ This project highlights my skills, projects, education, and experience.
 ## 📬 Connect With Me
 - **Email:** prajnashetty567@gmail.com  
 - **LinkedIn:** [Prajna Punya](https://www.linkedin.com/in/prajna-punya-674683268/)  
-- **GitHub:** [Prajnapunya09](https://github.com/Prajnapunya09)
