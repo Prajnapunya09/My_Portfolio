@@ -40,7 +40,7 @@ This project highlights my skills, projects, education, and experience.
 
 ---
 
-## 📬 Contact
+##  📬 Contact
 ![Contact](https://github.com/Prajnapunya09/My_Portfolio/blob/main/contact-portfolio.jpg)
 
 ---
