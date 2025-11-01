@@ -25,7 +25,7 @@ This project highlights my skills, projects, education, and experience.
 
 ---
 
-## 📂 Projects
+##  📂 Projects
 ![Projects](https://github.com/Prajnapunya09/My_Portfolio/blob/main/projects-portfolio.jpg)
 
 ---
