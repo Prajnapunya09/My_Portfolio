@@ -1,4 +1,4 @@
-# 🌐 My Portfolio
+#  🌐 My Portfolio
 
 Welcome to my personal portfolio repository!  
 This project highlights my skills, projects, education, and experience.  
