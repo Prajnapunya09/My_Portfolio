@@ -49,7 +49,7 @@ This project highlights my skills, projects, education, and experience.
 -  Responsive and modern design  
 -  Showcases skills, projects, and internships  
 -  Clean UI with multiple sections  
-- Contact form for easy reach  
+-  Contact form for easy reach  
 
 ---
 
