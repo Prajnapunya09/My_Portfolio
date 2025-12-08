@@ -54,7 +54,7 @@ This project highlights my skills, projects, education, and experience.
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML, CSS  
+- **Frontend:**  HTML, CSS  
 
 ---
 
